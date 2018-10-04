@@ -1,0 +1,19 @@
+{
+  "name": "redis-connection-object-generator",
+  "version": "0.1.0",
+  "description": "Parse a given url to generate a connection object to be used in redis client modules (supports sentinel schema urls)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mNalon/redis-connection-object-generator.git"
+  },
+  "author": "mNalon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mNalon/redis-connection-object-generator/issues"
+  },
+  "homepage": "https://github.com/mNalon/redis-connection-object-generator#readme"
+}
