@@ -54,4 +54,4 @@ const extractRedisConf = (url, options) => {
   return Object.assign(connectionObject, options)
 }
 
-export default extractRedisConf
+module.exports = extractRedisConf
