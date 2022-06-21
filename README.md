@@ -8,7 +8,7 @@ npm install --save redis-connection-object-generator
 
 ## Using
 
-```
+```javascript
 const redisConnectionObjectGenerator = require('redis-connection-object-generator')
 
 redisConnectionObjectGenerator('redis://:@127.0.0.1:6379/0')
